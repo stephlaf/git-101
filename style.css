@@ -1,6 +1,11 @@
 body {
   margin: 0;
   font-family: Helvetica;
+  background: rgba(250, 17, 22, 1.00);
+}
+
+h1 {
+  color: white;
 }
 
 .container {
